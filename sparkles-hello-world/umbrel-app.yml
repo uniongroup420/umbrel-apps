@@ -1,8 +1,8 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
+id: tubesync
+name: TubeSync
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://raw.githubusercontent.com/meeb/tubesync/main/tubesync/common/static/images/tubesync.png
 category: Development
 version: "1.0.0"
 port: 4000
@@ -12,19 +12,18 @@ description: >-
 
   You can also add newlines!
 
-developer: Umbrel
+developer: Lokko
 website: https://umbrel.com
 submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: https://github.com/uniongroup420/umbrel-apps
+repo: https://github.com/uniongroup420/umbrel-apps
+support: https://github.com/uniongroup420/umbrel-apps
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-releaseNotes: >-
+  - https://mariushosting.com/wp-content/uploads/2023/11/Tubesync-Synology-NAS-Portainer-Set-up-6.png
+  - https://d4.alternativeto.net/ceLg6afX_vx8-DTCDbrkixIcJb_mKOWsGShD8apCa08/rs:fit:2400:2400:0/g:ce:0:0/YWJzOi8vZGlzdC9zL3R1YmVzeW5jXzM3NTQ4OV9mdWxsLnBuZw.jpg
+ releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
 path: ""
-defaultUsername: ""
-defaultPassword: ""
+defaultUsername: "tubesync"
+defaultPassword: "tubesync"
